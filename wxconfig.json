@@ -1,0 +1,6 @@
+{
+  "wxAppId" : "",//公众号appid
+  "wxAppSecret" : "",//公众号appsecrect
+  "wxMchId" : "",//商户id
+  "wxPayKey" : ""//商户密钥
+}
